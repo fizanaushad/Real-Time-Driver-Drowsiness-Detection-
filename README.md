@@ -21,4 +21,4 @@ This project detects driver drowsiness in real-time using deep learning and comp
 
 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/Drowsiness-Detection.git
+git clone https://github.com/<fizanaushad>/Drowsiness-Detection.git
