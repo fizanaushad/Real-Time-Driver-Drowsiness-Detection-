@@ -1,1 +1,21 @@
+# TensorFlow for CNN model
+tensorflow>=2.10
+
+# OpenCV for image processing and webcam
+opencv-python>=4.7.0
+
+# Numpy for array operations
+numpy>=1.23
+
+# scikit-learn for train/test split and preprocessing
+scikit-learn>=1.2
+
+# matplotlib for plotting (optional, for visualization)
+matplotlib>=3.7
+
+# h5py for saving/loading Keras models
+h5py>=3.9
+
+# pillow for image handling(Optional)
+Pillow>=9.5
 
